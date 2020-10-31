@@ -1,0 +1,16 @@
+{
+	"name": "Mod2ModRefImpl v1",
+	"description": "Mod to Mod Interface Reference Implementation",
+	"changeNote": "",
+	"author": "FortunaCournot",
+	"authorUrl": "https://steamcommunity.com/id/FortunaCournot/myworkshopfiles/",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "Mod2ModRefImpl",
+	"revisionNumber": 0,
+	"snapshotId": 0
+}
